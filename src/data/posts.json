@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "next-leaning-1",
+      "title": "Next.js 13 leaning",
+      "content": "本文 本文 本文 本文 本文 本文 本文 本文 ",
+      "createdAt": "2024/06/01"
+    },
+    {
+      "id": "next-leaning-2",
+      "title": "Next.js 13 leaning2",
+      "content": "[!IMPORTANT] Viewing beta v1 documentation – usable but expect breaking changes. For stable version, see here[!IMPORTANT] Viewing beta v1 documentation – usable but expect breaking changes. For stable version, see here[!IMPORTANT] Viewing beta v1 documentation – usable but expect breaking changes. For stable version, see here",
+      "createdAt": "2024/06/02"
+    },
+    {
+      "id": "revalidate-3",
+      "title": "Next.js 13 ISR",
+      "content": "Next.js is a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations.Under the hood, Next.js also abstracts and automatically configures tooling needed for React, like bundling, compiling, and more. This allows you to focus on building your application instead of spending time with configuration.Whether you're an individual developer or part of a larger team, Next.js can help you build interactive, dynamic, and fast React applications.",
+      "createdAt": "2024/06/03"
+    },
+    {
+      "id": "post1",
+      "title": "テストタイトル",
+      "content": "テスト本文テスト本文テスト本文テスト本文テスト本文テスト本文テスト本文",
+      "createdAt": "2024-06-05T13:48:25.633Z"
+    }
+  ]
+}
