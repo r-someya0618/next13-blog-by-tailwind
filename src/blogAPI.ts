@@ -65,7 +65,6 @@ export const createArticle = async (
 
 export const deleteArticle = async (id: string): Promise<Article> => {
   const currentDateTime = new Date().toISOString()
-
   const res = await fetch(`http://localhost:3001/posts/${id}`, {
     method: 'DELETE',
   })
